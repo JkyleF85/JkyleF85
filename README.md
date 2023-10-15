@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JkyleF85
-- 👀 I’m interested in ...learning all about cyberspace 
-- 🌱 I’m currently learning ...the beginning 
-- 💞️ I’m looking to collaborate on ...???
-- 📫 How to reach me ...email @saintsbrother99@gmail.com or
+- 👀 I’m interested in ...Cyber security and software development 
+- 🌱 I’m currently learning ...1st year in college studying computer technologies 
+- 💞️ I’m looking to collaborate on ...not sure atm
+- 📫 How to reach me ...
      github.com/jkylef85
 
 <!---
